@@ -1,7 +1,5 @@
 import { ConnectButton } from '@rainbow-me/rainbowkit';
-import { Landing } from '../components/Landing';
-
-//import abi
+import Landing from '../components/Landing';
 
 const EVMManagerPage = () => {
   return (
